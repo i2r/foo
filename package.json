@@ -1,0 +1,13 @@
+{
+  "name": "foo",
+  "description": "foo 0.0.1",
+  "version": "0.0.1",
+  "repository": "",
+  "private": true,
+  "dependencies": {
+    "stylobate-islands": "0.28.0"
+  },
+  "devDependencies": {
+    "stylus": "0.47.1"
+  }
+}
